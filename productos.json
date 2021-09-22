@@ -1,0 +1,72 @@
+{
+  "productos": [
+    {
+      "nombre": "La cerveza importada (33 cl)",
+      "precio": 5400.0
+    },
+    {
+      "nombre": "Cerveza nacional (0,5 litros)",
+      "precio": 3100.0
+    },
+    {
+      "nombre": "Botella de Vino (Calidad media)",
+      "precio": 30000.0
+    },
+    {
+      "nombre": "Agua (1,5 litros)",
+      "precio": 2600.0
+    },
+    {
+      "nombre": "Lechuga (1 unidad)",
+      "precio": 2400.0
+    },
+    {
+      "nombre": "Cebollas (1kg)",
+      "precio": 3000.0
+    },
+    {
+      "nombre": "Patatas (1 kg)",
+      "precio": 2600.0
+    },
+    {
+      "nombre": "Tomates (1 kg)",
+      "precio": 3500.0
+    },
+    {
+      "nombre": "Naranjas (1 kg)",
+      "precio": 3600.0
+    },
+    {
+      "nombre": "Pl\u00e1tanos (1kg)",
+      "precio": 2900.0
+    },
+    {
+      "nombre": "Manzanas (1 kg)",
+      "precio": 7100.0
+    },
+    {
+      "nombre": "Ternera (cadera o similar) (1kg)",
+      "precio": 17200.0
+    },
+    {
+      "nombre": "Queso fresco (1 kg)",
+      "precio": 11300.0
+    },
+    {
+      "nombre": "Una docena de huevos",
+      "precio": 5200.0
+    },
+    {
+      "nombre": "Arroz (1kg)",
+      "precio": 3400.0
+    },
+    {
+      "nombre": "Un kilo de pan (1 kg)",
+      "precio": 3100.0
+    },
+    {
+      "nombre": "Leche (1 litro)",
+      "precio": 2600.0
+    }
+  ]
+}
